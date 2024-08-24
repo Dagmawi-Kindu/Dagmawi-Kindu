@@ -1,4 +1,6 @@
 # 💫 About Me:
+👋 Hello! I'm Dagmawi Kindu Mekonnen<br>
+💼 As a Backend Developer, I specialize in building robust web applications using a diverse set of technologies, ensuring high performance and scalability.<br>
 🔭 Current Project: Developing a Terminal Management System.<br>🌱 Learning Focus: Clean Architecture, Domain-Driven Design (DDD), and Test-Driven Development (TDD).<br><br>
 
 
